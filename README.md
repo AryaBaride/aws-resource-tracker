@@ -43,7 +43,7 @@ Next,
 12. Here, again you will be prompted to enter your:
 	1) GitHub username
 	2) GitHub password (Create a classic personal access token and select the required scopes:
-	# repo: Full access to repositories (for private repositories).
-	# workflow: To manage workflows if needed. 
+		 repo: Full access to repositories (for private repositories).
+		 workflow: To manage workflows if needed. 
 Now, copy this token as you won't be able to see it again and paste it in the password section.
 We did this because GitHub no longer allows password authentication for HTTPS.

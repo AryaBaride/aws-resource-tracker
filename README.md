@@ -18,7 +18,7 @@ This shell script requires some pre-requisites, here are they!
 Next,
 1. Connect to your instance using ec2 connect
 2. Check the pwd and create a .sh file to write your shell script.
-3. Assign chmod 711 to your shell script.
+3. Assign permissions to your shell script.
 4. Now, authenticate using SSH with your GitHub:
 	1)Generate an SSH key: ssh-keygen -t rsa -b 4096 -C "your-email@example.com"
 	2)Save the key in the default location that is provided.
